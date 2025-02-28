@@ -54,7 +54,7 @@ const Header = () => {
                   onClick={() => setIsProfileDropdownOpen(!isProfileDropdownOpen)}
                 >
                   <FiUser className="h-5 w-5" />
-                  <span>John Doe</span>
+                  <span>User Info</span>
                   <FiChevronDown className="h-4 w-4" />
                 </button>
 
